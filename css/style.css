@@ -1,0 +1,9 @@
+.bg-navbar {
+    background: linear-gradient(135deg,#419393, #12353b );
+    padding: 10px;
+  }
+
+body{
+    background: linear-gradient(135deg,#115461 ,#83a3a3 );
+    height: 100vh;
+}
